@@ -83,7 +83,7 @@ The Random Forest model achieved **87% accuracy** on the test dataset.
 ## 📁 Project Files
 
 * `placement_prediction.ipynb` – Machine learning model training
-* `dataset.csv` – Dataset used for training
+* `college_student_placement_dataset.csv` – Dataset used for training
 * `RandomForestFinal.pkl` – Saved trained model
 * `app.py` – Flask application for prediction
 * `requirements.txt` – Python libraries used
