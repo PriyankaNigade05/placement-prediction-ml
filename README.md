@@ -1,4 +1,4 @@
-# 🎓 Placement Prediction using Machine Learning
+# 🎓  College Placement Prediction using Machine Learning
 
 This project predicts whether a student will be **placed or not placed** using Machine Learning.
 The model analyzes student academic performance and other related features to make predictions about placement outcomes.
@@ -7,24 +7,36 @@ The model analyzes student academic performance and other related features to ma
 
 ## 📌 Project Description
 
-This is a Machine Learning classification project that uses the **Random Forest Classifier** to predict student placement status based on academic data.
+This project predicts whether a student will be placed or not using Machine Learning techniques. 
+The model analyzes student academic performance, internship experience, communication skills, and other related features to predict placement outcomes.
 
+---
+## 📊 Project Workflow
+
+Data Collection  
+Data Preprocessing  
+Feature Engineering  
+Train-Test Split  
+Model Training using Random Forest  
+Model Evaluation  
+Prediction using Flask Web Application
 ---
 
 ## 🛠 Technologies Used
 
-* Python
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
-* Scikit-learn
+Python  
+NumPy  
+Pandas  
+Matplotlib  
+Seaborn  
+Scikit-learn  
+Flask
 
 ---
 
 ## 🤖 Machine Learning Algorithm
 
-* Random Forest Classifier
+Random Forest Classifier was used for classification because it reduces overfitting and provides high accuracy on structured datasets.
 
 ---
 
@@ -68,7 +80,7 @@ The Random Forest model achieved **87% accuracy** on the test dataset.
 
 ### User Interface
 
-![ui](images/ui.png)
+![ui](images/userInterface.png)
 
 ### Confusion Matrix
 
@@ -87,6 +99,15 @@ The Random Forest model achieved **87% accuracy** on the test dataset.
 * `RandomForestFinal.pkl` – Saved trained model
 * `app.py` – Flask application for prediction
 * `requirements.txt` – Python libraries used
+
+---
+
+## 📚 Key Learnings
+
+* Built a complete Machine Learning pipeline from data preprocessing to model evaluation.
+* Learned feature engineering techniques to improve model performance.
+* Understood classification metrics such as accuracy, precision, recall, and F1-score.
+* Developed a Flask-based web interface for real-time prediction.
 
 ---
 
