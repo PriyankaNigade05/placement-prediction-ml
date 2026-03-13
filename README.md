@@ -72,11 +72,11 @@ The Random Forest model achieved **87% accuracy** on the test dataset.
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix.jpg)
 
 ### ROC Curve
 
-![ROC Curve](images/ROC_curve.png)
+![ROC Curve](images/ROC_curve.jpg)
 
 ---
 
