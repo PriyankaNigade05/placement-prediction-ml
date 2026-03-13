@@ -68,7 +68,7 @@ The Random Forest model achieved **87% accuracy** on the test dataset.
 
 ### User Interface
 
-![UI](images/ui.png)
+![ui](images/ui.png)
 
 ### Confusion Matrix
 
